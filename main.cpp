@@ -1,3 +1,6 @@
+//Lukasz Wysocki 
+//ZADANIE PROJEKTOWE
+// https://github.com/VLukaszV/Projekt_CPP.git
 #include <iostream>
 #include "Logic.h"
 #include "Zadania.h"
